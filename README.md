@@ -1,2 +1,2 @@
 # Solitare-Java
-Solitare card gae made in Java
+Solitare card game made in Java
